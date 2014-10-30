@@ -1,4 +1,5 @@
 dindin
 ======
 
-Dindin is a web system developed for college class @FATECJD
+Dindin is a web system developed for Software Development class at FATEC JD 
+
